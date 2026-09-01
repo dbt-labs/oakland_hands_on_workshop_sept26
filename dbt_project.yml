@@ -1,8 +1,8 @@
 config-version: 2
 
-name: "jaffle_shop"
+name: "Oaktown Analtyics"
 version: "3.0.0"
-require-dbt-version: ">=1.12.0"
+require-dbt-version: ">=2.0.0"
 
 dbt-cloud:
   project-id: 275557 # Put your project id here
